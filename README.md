@@ -1,5 +1,12 @@
 # COVID-19Tracker
  Overall coronavirus defection statistics around the world with Pie chart.
+ 
+Overall coronavirus defection statistics around the world.
+Tracking the number of confirmed cases, recovered patients, tests, and the death toll due to the COVID-19 coronavirus.
+Country specific coronavirus defection statistics.
+
+# Project description:
+Using REST API & Volley Library in Android Studio.
 
 
 # Global Statistics With Pie Chart
